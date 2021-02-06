@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "typeRoots": [
+      "../types"
+    ],
+    "paths": {
+      "*": ["../types/*"]
+    }
+  }
+}
